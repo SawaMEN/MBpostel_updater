@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
  <version>1.2.0.0</version>
- <url>https://github.com/SawaMEN/MBpostel/releases/download/1.1/MBpostel_1.1.7z</url>
+ <url>https://github.com/SawaMEN/MBpostel/releases/download/1.2/update.zip</url>
  <changelog>https://github.com/SawaMEN/MBpostel/raw/main/changelog.txt</changelog>
  <mandatory>true</mandatory>
 </item>
